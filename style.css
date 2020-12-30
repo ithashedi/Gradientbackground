@@ -1,0 +1,29 @@
+.main-container {
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+h1 {
+
+    font-size: 50px;
+}
+
+.colors-container {
+    border: solid 1px white;
+    box-sizing: content-box;  
+}
+
+body {
+    font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,0.5);
+    text-transform: uppercase;
+    top: 15%;
+    background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 43%, #F7CE68 99%);
+
+
+}
